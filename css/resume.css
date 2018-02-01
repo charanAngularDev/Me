@@ -149,7 +149,12 @@ a:hover, a:focus, a:active {
   margin-top:300px;
 }
 
-#about.highlight-me{
-  font-family: 'Caveat', cursive;
+/* span#highlight-me{
+  font-family: 'Caveat', 'cursive';
   color:#BD5D38;
+  font-size: 1.5rem;
+} */
+
+#interests{
+  background-image: "img/interests.jpg";
 }
